@@ -18,9 +18,7 @@ namespace BinarySearch
             {
                 RadixLSDsort(numbers, 10, 3);
                 Console.ReadLine();
-            }
-            
-            
+            }   
         }
 
         static void RadixLSDsort(int[] arrLSD, int range, int length)
