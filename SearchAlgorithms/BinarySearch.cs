@@ -29,11 +29,7 @@
                 {
                     max = middle- 1;
                 }
-
             }
             Console.WriteLine("Числа нет в массиве");
         }
-
-       
-
     }
