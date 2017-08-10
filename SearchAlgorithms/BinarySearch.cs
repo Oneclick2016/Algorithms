@@ -7,7 +7,7 @@
             BSearch(numbers, 6);
         }
 
-        static void BSearch(int[] arr,int searchNumber)
+        static void BSearch(int[] arr, int searchNumber)
         {
             int min = 0;
             int max = arr.Length - 1;
