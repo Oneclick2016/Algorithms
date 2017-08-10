@@ -1,12 +1,3 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BinarySearch
-{
     class Program
     {
         static int[] numbers = { 1, 5, 6, 11, 12, 17 };
@@ -46,4 +37,3 @@ namespace BinarySearch
        
 
     }
-}
