@@ -1,7 +1,7 @@
 ﻿class Sort
 {
     //неотсортированый массив
-    static int[] numbers = { 5, 2, 12, 7, 452 };
+    static int[] numbers = { 5, 2, 12, 7, 452, 256 };
 
     static void Main(string[] args)
     {
