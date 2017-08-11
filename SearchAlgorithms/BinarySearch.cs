@@ -1,6 +1,6 @@
 ﻿class Search
 {
-    static int[] numbers = { 1, 5, 6, 11, 12, 17 };
+    static int[] numbers = { 1, 5, 6, 11, 12, 17, 25};
 
     static void Main(string[] args)
     {
